@@ -29,7 +29,7 @@ To view the report, download or open `Pinewheel_Report.pdf`.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Jay2212004/pinewheel-.git
+[git clone https://github.com/Jay2212004/pinewheel-.git](https://github.com/Jay2212004/Pinewheels.ai.git)
 
 # Navigate to the directory
 cd pinewheel-vapt
